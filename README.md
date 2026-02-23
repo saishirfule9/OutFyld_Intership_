@@ -4,7 +4,7 @@ This repository contains all the tasks, projects, and learning work completed du
 
 ## About the Internship
 
-DAS
+
 I am working as a Full Stack Developer Intern where I handle Java, Spring Boot, React, SQL, and general full stack tasks. The goal of this repository is to track my progress, maintain clean code, and show my daily learning activity.
 
 ## What You Will Find Here
