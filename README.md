@@ -1,5 +1,5 @@
 # OutFyld Internship
-da
+
 This repository contains all the tasks, projects, and learning work completed during my Full Stack Developer Internship at OutFyld. I use this space to upload weekly tasks, notes, code updates, and practice files that I work on throughout the internship.
 
 ## About the Internship  
